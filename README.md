@@ -1,4 +1,5 @@
 # SingleServer-DS
 Regresion Lineal
 
-# En el archivo NOTEBOOkFINAL SE ENCUENTRA el código del proyecto
+# El archivo del proyecto se encuentra:
+NotebookFINAL SE ENCUENTRA el código del proyecto
