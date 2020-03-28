@@ -1,5 +1,5 @@
 # SingleServer-DS
-Servidor de cola unica y Regresion Lineal
+Servidor de cola unica en python 
 
 # El archivo del proyecto se encuentra:
-NotebookFINAL SE ENCUENTRA el código del proyecto
+NotebookParcial3-simulacion
